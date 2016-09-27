@@ -1,3 +1,3 @@
 # waffle-test
 
-oh hai
+oh hai.
